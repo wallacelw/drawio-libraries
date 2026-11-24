@@ -1,0 +1,17 @@
+{
+  "HWC Analytics (color).xml": {"type": "icons", "category": "Analytics"},
+  "HWC Artificial Intelligence (color).xml": {"type": "icons", "category": "Artificial Intelligence"},
+  "HWC Business Applications (color).xml": {"type": "icons", "category": "Business Applications"},
+  "HWC Compute and Containers (color).xml": {"type": "icons", "category": "Compute and Containers"},
+  "HWC Databases (color).xml": {"type": "icons", "category": "Databases"},
+  "HWC Developer Services (color).xml": {"type": "icons", "category": "Developer Services"},
+  "HWC Flexus (color).xml": {"type": "icons", "category": "Flexus"},
+  "HWC Groups.xml": {"type": "groups"},
+  "HWC Management and Governance (color).xml": {"type": "icons", "category": "Management and Governance"},
+  "HWC Middleware (color).xml": {"type": "icons", "category": "Middleware"},
+  "HWC Migration (color).xml": {"type": "icons", "category": "Migration"},
+  "HWC Misc (color).xml": {"type": "icons", "category": "Misc"},
+  "HWC Networking (color).xml": {"type": "icons", "category": "Networking"},
+  "HWC Security and Compliance (color).xml": {"type": "icons", "category": "Security and Compliance"},
+  "HWC Storage (color).xml": {"type": "icons", "category": "Storage"}
+}

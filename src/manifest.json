@@ -1,0 +1,1816 @@
+{
+  "title_fixes": {
+    "Cloud Application Egine (CAE)": "Cloud Application Engine (CAE)",
+    "Log Tank Servce (LTS)": "Log Tank Service (LTS)",
+    "Data Encryption Worshop (DEW)": "Data Encryption Workshop (DEW)",
+    "FGPA Accelerated Cloud Server (FACS)": "FPGA Accelerated Cloud Server (FACS)"
+  },
+  "categories": {
+    "Analytics": [
+      {
+        "title": "Cloud Search Service (CSS)",
+        "file": "Cloud Search Service (CSS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Stream Service (CS)",
+        "file": "Cloud Stream Service (CS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CloudTable",
+        "file": "CloudTable.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Ingestion Service (DIS)",
+        "file": "Data Ingestion Service (DIS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Lake Insight (DLI)",
+        "file": "Data Lake Insight (DLI).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Lake Visualization (DLV)",
+        "file": "Data Lake Visualization (DLV).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "DataArts Insight (Modern BI)",
+        "file": "DataArts Insight (Modern BI).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "DataArts Studio",
+        "file": "DataArts Studio.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GaussDB(DWS)",
+        "file": "GaussDB(DWS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "LakeFormation",
+        "file": "LakeFormation.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Log Analysis Service (LOG)",
+        "file": "Log Analysis Service (LOG).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "MapReduce Service (MRS)",
+        "file": "MapReduce Service (MRS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Trusted Intelligent Computing Service (TICS)",
+        "file": "Trusted Intelligent Computing Service (TICS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Artificial Intelligence": [
+      {
+        "title": "Automatic Speech Recognition (ASR)",
+        "file": "Automatic Speech Recognition (ASR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Card OCR",
+        "file": "Card OCR.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Celebrity Recognition (ROC)",
+        "file": "Celebrity Recognition (ROC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "City Intelligent Twins (iCityS)",
+        "file": "City Intelligent Twins (iCityS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Conversational Bot Service (CBS)",
+        "file": "Conversational Bot Service (CBS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Domain OCR",
+        "file": "Domain OCR.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "e-Government Intelligent Twin",
+        "file": "e-Government Intelligent Twin.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "EI Health",
+        "file": "EI Health.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "EI Industrial",
+        "file": "EI Industrial.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Face Recognition Service (FRS)",
+        "file": "Face Recognition Service (FRS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "General OCR",
+        "file": "General OCR.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GeoGenius",
+        "file": "GeoGenius.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Graph Engine Service (GES)",
+        "file": "Graph Engine Service (GES).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "HiLens",
+        "file": "HiLens.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Identity Verification Solution (IVS)",
+        "file": "Identity Verification Solution (IVS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Image",
+        "file": "Image.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Image Search",
+        "file": "Image Search.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Image Tagging",
+        "file": "Image Tagging.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Intelligent PhoneBot",
+        "file": "Intelligent PhoneBot.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Intelligent QABot (CBSQA)",
+        "file": "Intelligent QABot (CBSQA).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Intelligent Quality Inspection Speech Analysis (CBSSA)",
+        "file": "Intelligent Quality Inspection Speech Analysis (CBSSA).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Intelligent Voice Assistant (CBSC)",
+        "file": "Intelligent Voice Assistant (CBSC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Long Audio Transcription (ASRC)",
+        "file": "Long Audio Transcription (ASRC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "ModelArts",
+        "file": "ModelArts.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Moderation",
+        "file": "Moderation.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Moderation (Image)",
+        "file": "Moderation (Image).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Moderation (Text)",
+        "file": "Moderation (Text).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "NLP Customization (NLPC)",
+        "file": "NLP Customization (NLPC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "NLP Fundamentals (NLPF)",
+        "file": "NLP Fundamentals (NLPF).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "NLP Language Generation (NLPG)",
+        "file": "NLP Language Generation (NLPG).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "NLP Language Understanding (NLPU)",
+        "file": "NLP Language Understanding (NLPU).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Octopus",
+        "file": "Octopus.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Optical Character Recognition (OCR)",
+        "file": "Optical Character Recognition (OCR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Pangu",
+        "file": "Pangu.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Real-time Automatic Speech Recognition (RASR)",
+        "file": "Real-time Automatic Speech Recognition (RASR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Receipt OCR",
+        "file": "Receipt OCR.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Recommender System (RES)",
+        "file": "Recommender System (RES).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Smart OCR",
+        "file": "Smart OCR.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Speech Interaction Service (SIS)",
+        "file": "Speech Interaction Service (SIS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Text to Speech (TTS)",
+        "file": "Text to Speech (TTS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "TrafficGo",
+        "file": "TrafficGo.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Video Content Moderation (VCM)",
+        "file": "Video Content Moderation (VCM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Video Content Processing (VCP)",
+        "file": "Video Content Processing (VCP).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Video Content Tagging (VCT)",
+        "file": "Video Content Tagging (VCT).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Video Fingerprinting (VFP)",
+        "file": "Video Fingerprinting (VFP).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Video Ingestion and Analysis Service (VIAS)",
+        "file": "Video Ingestion and Analysis Service (VIAS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Business Applications": [
+      {
+        "title": "Cloud Managed Network (CMN)",
+        "file": "Cloud Managed Network (CMN).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CloudSite",
+        "file": "CloudSite.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Customer Engagement Center (CEC)",
+        "file": "Customer Engagement Center (CEC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Dedicated Cloud (DeC)",
+        "file": "Dedicated Cloud (DeC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Domain Name Service (DNS)",
+        "file": "Domain Name Service (DNS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Domains",
+        "file": "Domains.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Edge Data Center Management (EDCM)",
+        "file": "Edge Data Center Management (EDCM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Enterprise Mail",
+        "file": "Enterprise Mail.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Enterprise Self-Service Management (ESM)",
+        "file": "Enterprise Self-Service Management (ESM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "InnoStage Workbench (HaydnCSF)",
+        "file": "InnoStage Workbench (HaydnCSF).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Meeting",
+        "file": "Meeting.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Message & SMS (MSGSMS)",
+        "file": "Message & SMS (MSGSMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Private Number",
+        "file": "Private Number.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "ROMA Connect",
+        "file": "ROMA Connect.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "ROMA Exchange",
+        "file": "ROMA Exchange.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Software-Defined WAN (SDWAN)",
+        "file": "Software-Defined WAN (SDWAN).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Trademark",
+        "file": "Trademark.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Voice Call",
+        "file": "Voice Call.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "WeLink",
+        "file": "WeLink.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Workspace",
+        "file": "Workspace.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Compute and Containers": [
+      {
+        "title": "Huawei Cloud Stack (HCS)",
+        "file": "Huawei Cloud Stack (HCS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Auto Scaling (AS)",
+        "file": "Auto Scaling (AS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Bare Metal Server (BMS)",
+        "file": "Bare Metal Server (BMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Phone (CPH)",
+        "file": "Cloud Phone (CPH).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Dedicated Computing Cluster (DCC)",
+        "file": "Dedicated Computing Cluster (DCC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Dedicated Host (DeH)",
+        "file": "Dedicated Host (DeH).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Elastic Cloud Server (ECS)",
+        "file": "Elastic Cloud Server (ECS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FPGA Accelerated Cloud Server (FACS)",
+        "file": "FPGA Accelerated Cloud Server (FACS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FunctionGraph",
+        "file": "FunctionGraph.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GPU Accelerated Cloud Server (GACS)",
+        "file": "GPU Accelerated Cloud Server (GACS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Huawei Cloud EulerOS",
+        "file": "Huawei Cloud EulerOS.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Image Management Service (IMS)",
+        "file": "Image Management Service (IMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Container Engine (CCE)",
+        "file": "Cloud Container Engine (CCE).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Container Instance (CCI)",
+        "file": "Cloud Container Instance (CCI).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Intelligent EdgeFabric (IEF)",
+        "file": "Intelligent EdgeFabric (IEF).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "SoftWare Repository for Container (SWR)",
+        "file": "SoftWare Repository for Container (SWR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Ubiquitous Cloud Native Service (UCS)",
+        "file": "Ubiquitous Cloud Native Service (UCS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Databases": [
+      {
+        "title": "Data Admin Service (DAS)",
+        "file": "Data Admin Service (DAS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Replication Service (DRS)",
+        "file": "Data Replication Service (DRS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Database and Application Migration (UGO)",
+        "file": "Database and Application Migration (UGO).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Distributed Database Middleware (DDM)",
+        "file": "Distributed Database Middleware (DDM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Document Database Service (DDS)",
+        "file": "Document Database Service (DDS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GaussDB",
+        "file": "GaussDB.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GeminiDB",
+        "file": "GeminiDB.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GeminiDB for Cassandra",
+        "file": "GeminiDB for Cassandra.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GeminiDB for Influx",
+        "file": "GeminiDB for Influx.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GeminiDB for Mongo",
+        "file": "GeminiDB for Mongo.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "GeminiDB for Redis",
+        "file": "GeminiDB for Redis.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "RDS for MariaDB",
+        "file": "RDS for MariaDB.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "RDS for MySQL",
+        "file": "RDS for MySQL.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "RDS for PostgreSQL",
+        "file": "RDS for PostgreSQL.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "RDS for SQL Server",
+        "file": "RDS for SQL Server.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Relational Database Service (RDS)",
+        "file": "Relational Database Service (RDS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "TaurusDB",
+        "file": "TaurusDB.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Developer Services": [
+      {
+        "title": "Cloud Application Engine (CAE)",
+        "file": "Cloud Application Engine (CAE).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts",
+        "file": "CodeArts.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Artifact",
+        "file": "CodeArts Artifact.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Board",
+        "file": "CodeArts Board.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Build",
+        "file": "CodeArts Build.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Check",
+        "file": "CodeArts Check.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Defect",
+        "file": "CodeArts Defect.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Deploy",
+        "file": "CodeArts Deploy.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Governance",
+        "file": "CodeArts Governance.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts IDE",
+        "file": "CodeArts IDE.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts IDE Online",
+        "file": "CodeArts IDE Online.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Link",
+        "file": "CodeArts Link.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Modeling",
+        "file": "CodeArts Modeling.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts PerfTest",
+        "file": "CodeArts PerfTest.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Pipeline",
+        "file": "CodeArts Pipeline.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Release",
+        "file": "CodeArts Release.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Repo",
+        "file": "CodeArts Repo.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Req",
+        "file": "CodeArts Req.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts TestPlan",
+        "file": "CodeArts TestPlan.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Mirrors",
+        "file": "Mirrors.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Mobile App Test",
+        "file": "Mobile App Test.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "ServiceStage",
+        "file": "ServiceStage.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Flexus": [
+      {
+        "title": "Flexus",
+        "file": "Flexus.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusCCI",
+        "file": "FlexusCCI.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusInsight",
+        "file": "FlexusInsight.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusL",
+        "file": "FlexusL.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusMeeting",
+        "file": "FlexusMeeting.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusMetastudio",
+        "file": "FlexusMetastudio.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusRDS",
+        "file": "FlexusRDS.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusSearch",
+        "file": "FlexusSearch.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "FlexusX",
+        "file": "FlexusX.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Management and Governance": [
+      {
+        "title": "Application Operation Management (AOM)",
+        "file": "Application Operation Management (AOM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Application Performance Management (APM)",
+        "file": "Application Performance Management (APM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Eye Service (CES)",
+        "file": "Cloud Eye Service (CES).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Operations Center (COC)",
+        "file": "Cloud Operations Center (COC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Trace Service (CTS)",
+        "file": "Cloud Trace Service (CTS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Config (RMS)",
+        "file": "Config (RMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "IAM Identity Center",
+        "file": "IAM Identity Center.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Identity and Access Management (IAM)",
+        "file": "Identity and Access Management (IAM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Log Tank Service (LTS)",
+        "file": "Log Tank Service (LTS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "OneAccess",
+        "file": "OneAccess.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Optimization Advisor (OA)",
+        "file": "Optimization Advisor (OA).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Organizations",
+        "file": "Organizations.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Resource Access Manager (RAM)",
+        "file": "Resource Access Manager (RAM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Resource Formation Service (RFS)",
+        "file": "Resource Formation Service (RFS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Resource Governance Center (RGC)",
+        "file": "Resource Governance Center (RGC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Simple Message Notification (SMN)",
+        "file": "Simple Message Notification (SMN).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Middleware": [
+      {
+        "title": "AppGallery Connect",
+        "file": "AppGallery Connect.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "HMS Core",
+        "file": "HMS Core.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Blockchain Service (BCS)",
+        "file": "Blockchain Service (BCS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Trusted Cross-Chain Service (TCS)",
+        "file": "Trusted Cross-Chain Service (TCS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "API Gateway (APIG)",
+        "file": "API Gateway (APIG).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Application Service Mesh (ASM)",
+        "file": "Application Service Mesh (ASM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Service Engine (CSE)",
+        "file": "Cloud Service Engine (CSE).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Distributed Cache Service (DCS) for Redis",
+        "file": "Distributed Cache Service (DCS) for Redis.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Distributed Message Service (DMS)",
+        "file": "Distributed Message Service (DMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Distributed Message Service (DMS) for RocketMQ",
+        "file": "Distributed Message Service (DMS) for RocketMQ.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "EventGrid (EG)",
+        "file": "EventGrid (EG).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Kafka",
+        "file": "Kafka.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Memcached (deprecated)",
+        "file": "Memcached (deprecated).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Multi-Site High Availability Service (MAS)",
+        "file": "Multi-Site High Availability Service (MAS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "RabbitMQ",
+        "file": "RabbitMQ.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Migration": [
+      {
+        "title": "Cloud Data Migration (CDM)",
+        "file": "Cloud Data Migration (CDM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "MgC Edge",
+        "file": "MgC Edge.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Migration Center (MgC)",
+        "file": "Migration Center (MgC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Object Migration Service (OMS)",
+        "file": "Object Migration Service (OMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Server Migration Service (SMS)",
+        "file": "Server Migration Service (SMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Misc": [
+      {
+        "title": "CloudPond (IES)",
+        "file": "CloudPond (IES).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Content Delivery Network (CDN)",
+        "file": "Content Delivery Network (CDN).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Intelligent EdgeCloud (IEC)",
+        "file": "Intelligent EdgeCloud (IEC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Whole Site Acceleration (WSA)",
+        "file": "Whole Site Acceleration (WSA).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "DRIS",
+        "file": "DRIS.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "IoT Analytics",
+        "file": "IoT Analytics.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "IoT Communication",
+        "file": "IoT Communication.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "IoT Device Access (IoTDA)",
+        "file": "IoT Device Access (IoTDA).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "IoT Device Management (IoTDM)",
+        "file": "IoT Device Management (IoTDM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "IoT Edge",
+        "file": "IoT Edge.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "IoT Stage",
+        "file": "IoT Stage.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "LiteOS",
+        "file": "LiteOS.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "APIHub",
+        "file": "APIHub.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Exchange Data Space (EDS)",
+        "file": "Exchange Data Space (EDS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Kaitian Enterprise Workbench (MSSE)",
+        "file": "Kaitian Enterprise Workbench (MSSE).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Kaitian Integrated Workbench (MSSI)",
+        "file": "Kaitian Integrated Workbench (MSSI).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "KooDrive",
+        "file": "KooDrive.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "KooMap",
+        "file": "KooMap.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "KooMessage",
+        "file": "KooMessage.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "KooPhone",
+        "file": "KooPhone.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "KooSearch",
+        "file": "KooSearch.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "OrgID",
+        "file": "OrgID.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Industry Video Management (IVM)",
+        "file": "Industry Video Management (IVM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Live",
+        "file": "Live.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Media Processing Center (MPC)",
+        "file": "Media Processing Center (MPC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Meta Studio",
+        "file": "Meta Studio.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "SparkRTC",
+        "file": "SparkRTC.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Video Ingestion Service (VIS)",
+        "file": "Video Ingestion Service (VIS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Video On-Demand (VOD)",
+        "file": "Video On-Demand (VOD).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Networking": [
+      {
+        "title": "Cloud Connect (CC)",
+        "file": "Cloud Connect (CC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Direct Connect",
+        "file": "Direct Connect.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Elastic IP (EIP)",
+        "file": "Elastic IP (EIP).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Elastic Load Balance (ELB)",
+        "file": "Elastic Load Balance (ELB).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Enterprise Connect (EC)",
+        "file": "Enterprise Connect (EC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Enterprise Router (ER)",
+        "file": "Enterprise Router (ER).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Enterprise Switch (ESW)",
+        "file": "Enterprise Switch (ESW).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Global Accelerator (GA)",
+        "file": "Global Accelerator (GA).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "NAT Gateway",
+        "file": "NAT Gateway.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Virtual Private Cloud (VPC)",
+        "file": "Virtual Private Cloud (VPC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Virtual Private Network (VPN)",
+        "file": "Virtual Private Network (VPN).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "VPC Endpoint (VPCEP)",
+        "file": "VPC Endpoint (VPCEP).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Security and Compliance": [
+      {
+        "title": "Advanced Anti-DDoS (AAD) (deprecated)",
+        "file": "Advanced Anti-DDoS (AAD) (deprecated).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Anti-DDoS",
+        "file": "Anti-DDoS.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Bastion Host (CBH)",
+        "file": "Cloud Bastion Host (CBH).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Certificate Manager (CCM)",
+        "file": "Cloud Certificate Manager (CCM).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Firewall (CFW)",
+        "file": "Cloud Firewall (CFW).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Inspector",
+        "file": "CodeArts Inspector.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Compliance Compass",
+        "file": "Compliance Compass.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Container Security Service (CGS)",
+        "file": "Container Security Service (CGS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Encryption Workshop (DEW)",
+        "file": "Data Encryption Workshop (DEW).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Security Center (DSC)",
+        "file": "Data Security Center (DSC).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Database Security Service (DBSS)",
+        "file": "Database Security Service (DBSS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Edge Security (EdgeSec)",
+        "file": "Edge Security (EdgeSec).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Host Security Service (HSS)",
+        "file": "Host Security Service (HSS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Key Management Service (KMS)",
+        "file": "Key Management Service (KMS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Managed Detection and Response (MDR)",
+        "file": "Managed Detection and Response (MDR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Managed Threat Detector (MTD)",
+        "file": "Managed Threat Detector (MTD).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Network Detection and Response (NDR)",
+        "file": "Network Detection and Response (NDR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "SecMaster",
+        "file": "SecMaster.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Situation Awareness (SA)",
+        "file": "Situation Awareness (SA).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Web Application Firewall (WAF)",
+        "file": "Web Application Firewall (WAF).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ],
+    "Storage": [
+      {
+        "title": "Cloud Backup and Recovery (CBR)",
+        "file": "Cloud Backup and Recovery (CBR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Server Backup Service (CSBS) (deprecated)",
+        "file": "Cloud Server Backup Service (CSBS) (deprecated).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Cloud Storage Gateway (CSG)",
+        "file": "Cloud Storage Gateway (CSG).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Express Service (DES)",
+        "file": "Data Express Service (DES).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Data Workshop (DWR)",
+        "file": "Data Workshop (DWR).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Dedicated Distributed Storage Service (DSS)",
+        "file": "Dedicated Distributed Storage Service (DSS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Elastic Volume Service (EVS)",
+        "file": "Elastic Volume Service (EVS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Map Data Service (MapDS)",
+        "file": "Map Data Service (MapDS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Object Storage Service (OBS)",
+        "file": "Object Storage Service (OBS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Scalable File Service (SFS)",
+        "file": "Scalable File Service (SFS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Scalable File Service (SFS) Turbo",
+        "file": "Scalable File Service (SFS) Turbo.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Storage Disaster Recovery Service (SDRS)",
+        "file": "Storage Disaster Recovery Service (SDRS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "Volume Backup Service (VBS) (deprecated)",
+        "file": "Volume Backup Service (VBS) (deprecated).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      }
+    ]
+  }
+}

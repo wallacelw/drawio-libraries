@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Huawei Cloud",
+    "filename": "Huawei Cloud.xml",
+    "w": 160,
+    "h": 120,
+    "order": 1
+  },
+  {
+    "title": "Region",
+    "filename": "Region.xml",
+    "w": 160,
+    "h": 120,
+    "order": 2
+  },
+  {
+    "title": "Availability Zone (AZ)",
+    "filename": "Availability Zone (AZ).xml",
+    "w": 160,
+    "h": 120,
+    "order": 3
+  },
+  {
+    "title": "Virtual Private Cloud (VPC)",
+    "filename": "Virtual Private Cloud (VPC).xml",
+    "w": 160,
+    "h": 120,
+    "order": 4
+  },
+  {
+    "title": "Subnet",
+    "filename": "Subnet.xml",
+    "w": 160,
+    "h": 120,
+    "order": 5
+  },
+  {
+    "title": "Security Group",
+    "filename": "Security Group.xml",
+    "w": 160,
+    "h": 120,
+    "order": 6
+  },
+  {
+    "title": "Cloud Container Engine (CCE)",
+    "filename": "Cloud Container Engine (CCE).xml",
+    "w": 160,
+    "h": 120,
+    "order": 7
+  },
+  {
+    "title": "Auto Scaling Group (AS Group)",
+    "filename": "Auto Scaling Group (AS Group).xml",
+    "w": 160,
+    "h": 120,
+    "order": 8
+  }
+]
