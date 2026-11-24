@@ -54,5 +54,12 @@
     "w": 160,
     "h": 120,
     "order": 8
+  },
+  {
+    "title": "MRS Cluster",
+    "filename": "MRS Cluster.xml",
+    "w": 420,
+    "h": 280,
+    "order": 9
   }
 ]
