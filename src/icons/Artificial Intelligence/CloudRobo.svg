@@ -1,0 +1,32 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.000000" height="24.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_12" x1="0" x2="23.9999981" y1="0" y2="23.9999981" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(173,119,255)" offset="0.00499924878" stop-opacity="1" />
+			<stop stop-color="rgb(155,66,238)" offset="0.501534343" stop-opacity="1" />
+			<stop stop-color="rgb(166,82,248)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_13" x1="17.3103104" x2="17.2800255" y1="8.29784775" y2="12.6975403" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(255,255,255)" offset="0" stop-opacity="0.5" />
+			<stop stop-color="rgb(255,255,255)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_14" x1="6.95507288" x2="18.3523407" y1="10.1702051" y2="19.5256271" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(255,255,255)" offset="0" stop-opacity="0.600000024" />
+			<stop stop-color="rgb(255,255,255)" offset="0.418501914" stop-opacity="0.979999959" />
+			<stop stop-color="rgb(255,255,255)" offset="0.759315789" stop-opacity="1" />
+			<stop stop-color="rgb(255,255,255)" offset="1" stop-opacity="0.800000012" />
+		</linearGradient>
+		<linearGradient id="paint_linear_15" x1="13.3093452" x2="13.2991848" y1="4.62451315" y2="9.62001228" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(255,255,255)" offset="0.0379746817" stop-opacity="0.600000024" />
+			<stop stop-color="rgb(255,255,255)" offset="0.400163233" stop-opacity="0.850000024" />
+			<stop stop-color="rgb(255,255,255)" offset="0.688756883" stop-opacity="1" />
+			<stop stop-color="rgb(255,255,255)" offset="1" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g id="CloudRobo">
+		<rect id="矩形 1" width="24.000000" height="24.000000" x="0.000000" y="0.000000" rx="5.333539" fill="rgb(159,83,230)" />
+		<rect id="矩形 1" width="24.000000" height="24.000000" x="0.000000" y="0.000000" rx="5.333539" fill="url(#paint_linear_12)" fill-opacity="0" />
+		<path id="右" d="M15.2714 10.1452C15.2961 10.1862 15.3099 10.2338 15.3099 10.2834L15.3099 12.8995C15.3099 13.106 15.5344 13.2342 15.7123 13.1291L18.2737 11.6157C18.5173 11.4718 18.6667 11.2099 18.6667 10.927L18.6667 8.84685C18.6667 8.64999 18.6125 8.46092 18.5146 8.29785L15.2714 10.1452Z" fill="url(#paint_linear_13)" fill-rule="evenodd" />
+		<path id="左" d="M5.47717 8.31445L8.70007 10.1333L8.70277 10.1346C8.67284 10.1782 8.65601 10.2306 8.65601 10.2854L8.65601 13.5645C8.65601 13.6668 8.76647 13.731 8.85547 13.6803L11.2981 12.2873C11.6201 12.1037 12.0145 12.1004 12.3395 12.2787L18.1132 15.4463C18.4545 15.6336 18.6667 15.9921 18.6667 16.3815L18.6667 18.5998C18.6667 19.005 18.2327 19.2622 17.8773 19.0676L12.343 16.0382C12.016 15.8593 11.6194 15.8639 11.2967 16.0506L8.61304 17.6028L6.18371 19.0079C5.80604 19.2264 5.33337 18.9538 5.33337 18.5174L5.33337 8.84945C5.33337 8.65815 5.38451 8.47429 5.47717 8.31445Z" fill="url(#paint_linear_14)" fill-rule="evenodd" />
+		<path id="上" d="M11.5056 4.761L5.87806 7.9193C5.70763 8.01497 5.57006 8.15343 5.47583 8.317L8.69166 10.1523C8.7151 10.1116 8.74926 10.0771 8.79163 10.0532L11.498 8.52524C11.8276 8.33924 12.231 8.34167 12.5581 8.5317L15.1771 10.0526C15.219 10.0769 15.2526 10.1115 15.2755 10.1522L18.5206 8.308C18.4272 8.14833 18.2924 8.01293 18.1257 7.91857L12.5532 4.763C12.2284 4.57907 11.8311 4.5783 11.5056 4.761Z" fill="url(#paint_linear_15)" fill-rule="evenodd" />
+	</g>
+</svg>

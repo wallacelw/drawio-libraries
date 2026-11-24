@@ -1,5 +1,40 @@
 # Changelog
 
+## [v4.0] - 2026-11-25
+
+### Added
+
+- **One-click installation**: the README now has a table with links that open
+  app.diagrams.net with each library (or all of them at once) loaded straight
+  from the jsDelivr CDN — no download, no unzip, one click
+- **MRS cluster group** (Groups library): outer container with Master, Core and
+  Task node-group panels and example node chips
+- Artificial Intelligence: **ModelArts Studio (MaaS)**, **ModelArts Versatile**,
+  **CloudRobo**
+- Compute and Containers: **CCE Autopilot**, **CloudDC**
+- Developer Services: **CodeArts Doer**
+- Public source tree (`src/`) and build pipeline (`tools/`): every icon is now
+  an editable SVG file; `tools/build.py` regenerates the XML libraries and
+  `--check` validates them
+- CI validates all libraries on every push; releases are built and published
+  automatically on tags
+- `LICENSE` (MIT, code and docs) and `NOTICE` (Huawei icon attribution)
+
+### Changed
+
+- Pangu renamed to **Pangu Large Models**
+- Fixed icon title typos: Cloud Application Egine → Engine (CAE), Log Tank
+  Servce → Service (LTS), Data Encryption Worshop → Workshop (DEW),
+  FGPA → FPGA (FACS)
+- README rewritten (English and Portuguese) with one-click, URL, offline and
+  VS Code install instructions
+
+### Removed
+
+- **Legacy line (black and white) libraries** — they were no longer maintained
+- Security: **Situation Awareness (SA)** — service retired; SecMaster is the
+  go-forward name
+
 ## [v3.2] - 2025-01-30
 
 ### Added

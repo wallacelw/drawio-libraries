@@ -129,6 +129,13 @@
         "aspect": "fixed"
       },
       {
+        "title": "CloudRobo",
+        "file": "CloudRobo.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
         "title": "Conversational Bot Service (CBS)",
         "file": "Conversational Bot Service (CBS).svg",
         "w": 40.0,
@@ -269,6 +276,20 @@
         "aspect": "fixed"
       },
       {
+        "title": "ModelArts Studio (MaaS)",
+        "file": "ModelArts Studio (MaaS).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "ModelArts Versatile",
+        "file": "ModelArts Versatile.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
         "title": "Moderation",
         "file": "Moderation.svg",
         "w": 40.0,
@@ -332,8 +353,8 @@
         "aspect": "fixed"
       },
       {
-        "title": "Pangu",
-        "file": "Pangu.svg",
+        "title": "Pangu Large Models",
+        "file": "Pangu Large Models.svg",
         "w": 40.0,
         "h": 40,
         "aspect": "fixed"
@@ -574,6 +595,13 @@
         "aspect": "fixed"
       },
       {
+        "title": "CloudDC",
+        "file": "CloudDC.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
         "title": "Auto Scaling (AS)",
         "file": "Auto Scaling (AS).svg",
         "w": 40.0,
@@ -653,6 +681,13 @@
       {
         "title": "Cloud Container Engine (CCE)",
         "file": "Cloud Container Engine (CCE).svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CCE Autopilot",
+        "file": "CCE Autopilot.svg",
         "w": 40.0,
         "h": 40,
         "aspect": "fixed"
@@ -860,6 +895,13 @@
       {
         "title": "CodeArts Deploy",
         "file": "CodeArts Deploy.svg",
+        "w": 40.0,
+        "h": 40,
+        "aspect": "fixed"
+      },
+      {
+        "title": "CodeArts Doer",
+        "file": "CodeArts Doer.svg",
         "w": 40.0,
         "h": 40,
         "aspect": "fixed"
@@ -1700,13 +1742,6 @@
       {
         "title": "SecMaster",
         "file": "SecMaster.svg",
-        "w": 40.0,
-        "h": 40,
-        "aspect": "fixed"
-      },
-      {
-        "title": "Situation Awareness (SA)",
-        "file": "Situation Awareness (SA).svg",
         "w": 40.0,
         "h": 40,
         "aspect": "fixed"
