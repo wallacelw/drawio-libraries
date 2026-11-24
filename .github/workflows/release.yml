@@ -1,0 +1,40 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild libraries
+        run: |
+          python tools/build.py
+          python tools/build.py --check
+
+      - name: Pack release assets
+        run: |
+          mkdir -p dist
+          cp color/*.xml dist/
+          cd dist && zip ../drawio-libraries-${{ github.ref_name }}.zip *.xml && cd ..
+          ls -la dist/ *.zip
+
+      - name: Create GitHub release with assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ github.ref_name }}" \
+            --title "drawio-libraries ${{ github.ref_name }}" \
+            --generate-notes \
+            dist/*.xml "drawio-libraries-${{ github.ref_name }}.zip"
