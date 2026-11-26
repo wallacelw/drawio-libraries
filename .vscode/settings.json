@@ -1,9 +1,79 @@
 {
   "hediet.vscode-drawio.customLibraries": [
     {
-      "entryId": "hwc-all-in-one",
-      "libName": "Huawei Cloud",
-      "file": "${workspaceFolder}/all-in-one/HWC All-in-One (color).xml"
+      "entryId": "hwc-groups",
+      "libName": "HWC Groups",
+      "file": "${workspaceFolder}/color/HWC Groups.xml"
+    },
+    {
+      "entryId": "hwc-analytics",
+      "libName": "HWC Analytics",
+      "file": "${workspaceFolder}/color/HWC Analytics (color).xml"
+    },
+    {
+      "entryId": "hwc-artificial-intelligence",
+      "libName": "HWC Artificial Intelligence",
+      "file": "${workspaceFolder}/color/HWC Artificial Intelligence (color).xml"
+    },
+    {
+      "entryId": "hwc-business-applications",
+      "libName": "HWC Business Applications",
+      "file": "${workspaceFolder}/color/HWC Business Applications (color).xml"
+    },
+    {
+      "entryId": "hwc-compute-and-containers",
+      "libName": "HWC Compute and Containers",
+      "file": "${workspaceFolder}/color/HWC Compute and Containers (color).xml"
+    },
+    {
+      "entryId": "hwc-databases",
+      "libName": "HWC Databases",
+      "file": "${workspaceFolder}/color/HWC Databases (color).xml"
+    },
+    {
+      "entryId": "hwc-developer-services",
+      "libName": "HWC Developer Services",
+      "file": "${workspaceFolder}/color/HWC Developer Services (color).xml"
+    },
+    {
+      "entryId": "hwc-flexus",
+      "libName": "HWC Flexus",
+      "file": "${workspaceFolder}/color/HWC Flexus (color).xml"
+    },
+    {
+      "entryId": "hwc-management-and-governance",
+      "libName": "HWC Management and Governance",
+      "file": "${workspaceFolder}/color/HWC Management and Governance (color).xml"
+    },
+    {
+      "entryId": "hwc-middleware",
+      "libName": "HWC Middleware",
+      "file": "${workspaceFolder}/color/HWC Middleware (color).xml"
+    },
+    {
+      "entryId": "hwc-migration",
+      "libName": "HWC Migration",
+      "file": "${workspaceFolder}/color/HWC Migration (color).xml"
+    },
+    {
+      "entryId": "hwc-misc",
+      "libName": "HWC Misc",
+      "file": "${workspaceFolder}/color/HWC Misc (color).xml"
+    },
+    {
+      "entryId": "hwc-networking",
+      "libName": "HWC Networking",
+      "file": "${workspaceFolder}/color/HWC Networking (color).xml"
+    },
+    {
+      "entryId": "hwc-security-and-compliance",
+      "libName": "HWC Security and Compliance",
+      "file": "${workspaceFolder}/color/HWC Security and Compliance (color).xml"
+    },
+    {
+      "entryId": "hwc-storage",
+      "libName": "HWC Storage",
+      "file": "${workspaceFolder}/color/HWC Storage (color).xml"
     }
   ]
 }

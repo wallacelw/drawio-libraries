@@ -52,17 +52,8 @@ def build(repo: str, tag: str) -> dict:
                 "oneclick": APP + "U" + urllib.parse.quote(cdn, safe=""),
             }
         )
-    # The all-in-one library: every shape in a single file. Not part of the
-    # install-all join, which loads the per-category libraries instead.
-    aio_cdn = f"https://cdn.jsdelivr.net/gh/{repo}@{tag}/all-in-one/HWC%20All-in-One%20(color).xml"
-    all_in_one = {
-        "file": "HWC All-in-One (color).xml",
-        "name": "All-in-One (color)",
-        "cdn": aio_cdn,
-        "oneclick": APP + "U" + urllib.parse.quote(aio_cdn, safe=""),
-    }
     install_all = APP + ";".join("U" + urllib.parse.quote(e["cdn"], safe="") for e in entries)
-    return {"repo": repo, "tag": tag, "libraries": entries, "all_in_one": all_in_one, "install_all": install_all}
+    return {"repo": repo, "tag": tag, "libraries": entries, "install_all": install_all}
 
 
 def main() -> None:
@@ -85,8 +76,6 @@ def main() -> None:
         print("|---|---|")
         for e in data["libraries"]:
             print(f"| {e['name']} | [Add to draw.io]({e['oneclick']}) |")
-        aio = data["all_in_one"]
-        print(f"| {aio['name']} | [Add to draw.io]({aio['oneclick']}) |")
         print()
         print(f"[**Install all libraries at once**]({data['install_all']})")
         return

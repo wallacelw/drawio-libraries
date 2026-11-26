@@ -1,5 +1,18 @@
 # Changelog
 
+## [v4.2] - 2026-11-26
+
+### Changed
+
+- **Removed the All-in-One library**: draw.io shows each library file as one
+  flat section in the Shapes panel, so a single big file meant one long
+  ungrouped list. Every workflow now uses the 15 per-category libraries —
+  each appears as its own group:
+  - the VS Code workspace config (`.vscode/settings.json`) loads all 15
+    libraries, one sidebar group per category
+  - draw.io Desktop offline installs open the files from `color/` (one-time)
+  - the one-click table and install-all link are unchanged
+
 ## [v4.1] - 2026-11-26
 
 ### Added

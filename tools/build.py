@@ -16,7 +16,6 @@ SRC = ROOT / "src"
 LIBRARIES = SRC / "libraries.json"
 MANIFEST = SRC / "manifest.json"
 GROUPS_MANIFEST = SRC / "groups" / "manifest.json"
-ALL_IN_ONE = ROOT / "all-in-one" / "HWC All-in-One (color).xml"
 
 
 def escape_html(text: str) -> str:
@@ -65,48 +64,6 @@ def build_groups() -> str:
     return "<mxlibrary>" + json.dumps(arr, indent=2, ensure_ascii=False) + "</mxlibrary>"
 
 
-def build_all_in_one(libs: dict, manifest: dict) -> str:
-    """One library with every entry: groups first, then each icon category.
-
-    Handy where opening files one by one is tedious (draw.io Desktop offline,
-    VS Code custom libraries): one file, every shape.
-    """
-    lines = []
-
-    groups = sorted(
-        json.loads(GROUPS_MANIFEST.read_text(encoding="utf-8")),
-        key=lambda g: g["order"],
-    )
-    for g in groups:
-        xmltext = (SRC / "groups" / g["filename"]).read_text(encoding="utf-8")
-        obj = {
-            "xml": escape_html(xmltext),
-            "w": g["w"],
-            "h": g["h"],
-            "aspect": "fixed",
-            "title": g["title"],
-        }
-        lines.append(json.dumps(obj, separators=(",", ":"), ensure_ascii=False))
-
-    for out_name, spec in libs.items():
-        if spec["type"] != "icons":
-            continue
-        for entry in manifest["categories"][spec["category"]]:
-            b64 = base64.b64encode(
-                (SRC / "icons" / spec["category"] / entry["file"]).read_bytes()
-            )
-            obj = {
-                "data": "data:image/svg+xml;base64," + b64.decode("ascii"),
-                "w": entry["w"],
-                "h": entry["h"],
-                "title": escape_html(entry["title"]),
-                "aspect": entry["aspect"],
-            }
-            lines.append(json.dumps(obj, separators=(",", ":"), ensure_ascii=False))
-
-    return "<mxlibrary>[\n" + ",\n".join(lines) + "\n]</mxlibrary>\n"
-
-
 def generate(libs: dict, manifest: dict) -> dict:
     outputs = {}
     for out_name, spec in libs.items():
@@ -116,7 +73,6 @@ def generate(libs: dict, manifest: dict) -> dict:
             outputs[COLOR / out_name] = build_groups()
         else:
             sys.exit(f"unknown library type: {spec['type']}")
-    outputs[ALL_IN_ONE] = build_all_in_one(libs, manifest)
     return outputs
 
 
@@ -144,7 +100,7 @@ def main():
             sys.exit(1)
         print(f"OK: {len(outputs)} libraries match on-disk bytes.")
     else:
-        print(f"Wrote {len(outputs)} libraries ({COLOR}/ and {ALL_IN_ONE.parent}/)")
+        print(f"Wrote {len(outputs)} libraries to {COLOR}/")
 
 
 if __name__ == "__main__":

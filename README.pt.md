@@ -23,29 +23,29 @@ Security Group, CCE, AS Group e o **cluster MRS**). Todos os ícones são os
 
 Clique em qualquer link abaixo para abrir o
 [app.diagrams.net](https://app.diagrams.net) com aquela biblioteca carregada no
-painel **Formas** à esquerda. Os links carregam a biblioteca diretamente da CDN
-— nada para baixar ou descompactar.
+painel **Formas** à esquerda — cada biblioteca aparece como seu próprio grupo.
+Os links carregam as bibliotecas diretamente da CDN — nada para baixar ou
+descompactar.
 
 | Biblioteca | Instalação com um clique |
 |---|---|
-| Analytics (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Analytics%20%28color%29.xml) |
-| Artificial Intelligence (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Artificial%20Intelligence%20%28color%29.xml) |
-| Business Applications (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Business%20Applications%20%28color%29.xml) |
-| Compute and Containers (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Compute%20and%20Containers%20%28color%29.xml) |
-| Databases (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Databases%20%28color%29.xml) |
-| Developer Services (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Developer%20Services%20%28color%29.xml) |
-| Flexus (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Flexus%20%28color%29.xml) |
-| Groups | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Groups.xml) |
-| Management and Governance (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Management%20and%20Governance%20%28color%29.xml) |
-| Middleware (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Middleware%20%28color%29.xml) |
-| Migration (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Migration%20%28color%29.xml) |
-| Misc (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Misc%20%28color%29.xml) |
-| Networking (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Networking%20%28color%29.xml) |
-| Security and Compliance (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Security%20and%20Compliance%20%28color%29.xml) |
-| Storage (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Storage%20%28color%29.xml) |
-| **All-in-One (color)** — todas as formas em uma única biblioteca | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fall-in-one%2FHWC%2520All-in-One%2520%28color%29.xml) |
+| Analytics (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Analytics%20%28color%29.xml) |
+| Artificial Intelligence (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Artificial%20Intelligence%20%28color%29.xml) |
+| Business Applications (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Business%20Applications%20%28color%29.xml) |
+| Compute and Containers (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Compute%20and%20Containers%20%28color%29.xml) |
+| Databases (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Databases%20%28color%29.xml) |
+| Developer Services (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Developer%20Services%20%28color%29.xml) |
+| Flexus (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Flexus%20%28color%29.xml) |
+| Groups | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Groups.xml) |
+| Management and Governance (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Management%20and%20Governance%20%28color%29.xml) |
+| Middleware (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Middleware%20%28color%29.xml) |
+| Migration (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Migration%20%28color%29.xml) |
+| Misc (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Misc%20%28color%29.xml) |
+| Networking (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Networking%20%28color%29.xml) |
+| Security and Compliance (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Security%20and%20Compliance%20%28color%29.xml) |
+| Storage (color) | [Adicionar ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Storage%20%28color%29.xml) |
 
-**Instale todas as 15 bibliotecas por categoria de uma vez:** [Adicionar todas as bibliotecas ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Analytics%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Artificial%20Intelligence%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Business%20Applications%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Compute%20and%20Containers%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Databases%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Developer%20Services%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Flexus%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Groups.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Management%20and%20Governance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Middleware%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Migration%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Misc%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Networking%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Security%20and%20Compliance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.1%2Fcolor%2FHWC%20Storage%20%28color%29.xml)
+**Instale todas as 15 bibliotecas de uma vez:** [Adicionar todas as bibliotecas ao draw.io](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Analytics%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Artificial%20Intelligence%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Business%20Applications%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Compute%20and%20Containers%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Databases%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Developer%20Services%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Flexus%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Groups.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Management%20and%20Governance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Middleware%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Migration%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Misc%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Networking%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Security%20and%20Compliance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.2%2Fcolor%2FHWC%20Storage%20%28color%29.xml)
 
 Os links de um clique carregam as bibliotecas do [jsDelivr](https://www.jsdelivr.com/)
 fixadas na tag da versão mais recente, então eles sempre servem a versão
@@ -55,18 +55,18 @@ publicada.
 
 1. Instale o [draw.io Desktop](https://github.com/jgraph/drawio-desktop/releases)
    (`winget install JGraph.Draw`) se ainda não tiver.
-2. Carregue as formas — escolha o que preferir:
-   - **Um arquivo (mais fácil):** baixe o `HWC All-in-One (color).xml` dos
-     assets da [release](../../releases) mais recente — ele contém todos os
-     ícones e grupos — e no draw.io clique em **File > Open Library from >
-     Device…** e selecione-o. Pronto, em uma única etapa.
-   - **Por categoria:** baixe o zip da release, extraia e abra cada XML da
-     pasta `color/` com **File > Open Library from > Device…** (o draw.io
+2. Carregue as bibliotecas — cada uma aparece como seu próprio grupo no painel
+   de Formas:
+   - **Online (recomendado):** no draw.io clique em **File > Open Library from >
+     URL…** e cole a URL da CDN de uma biblioteca, por exemplo
+     `https://cdn.jsdelivr.net/gh/wallacelw/drawio-libraries@v4.2/color/HWC%20Groups.xml`
+     (substitua espaços por `%20`); repita para cada categoria que usar. Ou
+     simplesmente clique nos links de um clique acima — eles funcionam no app
+     web.
+   - **Offline:** baixe o zip da release na página de
+     [Releases](../../releases), extraia e abra cada XML da pasta `color/` com
+     **File > Open Library from > Device…** — configuração única (o draw.io
      aceita um arquivo por vez).
-   - **Online:** no app desktop use **File > Open Library from > URL…** e cole
-     uma URL da CDN, por exemplo
-     `https://cdn.jsdelivr.net/gh/wallacelw/drawio-libraries@v4.1/all-in-one/HWC%20All-in-One%20(color).xml`
-     (substitua espaços por `%20`).
 3. Para remover uma biblioteca depois, clique no **X** ao lado do nome dela no
    painel de Formas.
 
@@ -82,9 +82,10 @@ Abra este repositório como workspace no VS Code e você obtém:
    de extensões do workspace. Arquivos `.drawio` abrem como diagramas editáveis,
    e o XML do diagrama continua sendo texto simples, com diff e merge como
    qualquer arquivo.
-2. **As formas**: o `.vscode/settings.json` versionado carrega o
-   `all-in-one/HWC All-in-One (color).xml` na barra lateral de formas do editor
-   para todo diagrama neste workspace — sem configuração manual.
+2. **As formas**: o `.vscode/settings.json` versionado carrega as 15 bibliotecas
+   por categoria na barra lateral de formas do editor — cada categoria
+   (Analytics, Databases, Networking, Groups, …) aparece como seu próprio
+   grupo, sem configuração manual.
 3. **Diagramas por IA no chat (GitHub Copilot)**: o `.vscode/mcp.json`
    versionado adiciona o servidor MCP oficial do draw.io. Peça ao Copilot para
    desenhar algo ("draw an MRS cluster architecture") e o diagrama aparece
@@ -141,10 +142,9 @@ src/icons/<Categoria>/<Serviço>.svg   # ícones SVG de origem (editáveis)
 src/groups/<Grupo>.xml                 # modelos de formas de grupo
 src/manifest.json                     # ordem e metadados dos ícones por biblioteca
 tools/extract.py                      # extrai as bibliotecas .xml existentes para src/
-tools/build.py                        # reconstrói color/ + all-in-one/ a partir de src/ (use --check para validar)
+tools/build.py                        # reconstrói color/ a partir de src/ (use --check para validar)
 tools/links.py                        # regenera os links de instalação com um clique
 color/                                # bibliotecas draw.io geradas, uma por categoria
-all-in-one/                           # biblioteca gerada em arquivo único com todas as formas
 .vscode/                              # configuração da extensão draw.io, servidor MCP e biblioteca
 ```
 
