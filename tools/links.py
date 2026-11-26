@@ -72,12 +72,7 @@ def main() -> None:
         return
 
     if args.format == "markdown":
-        print("| Library | One-click install |")
-        print("|---|---|")
-        for e in data["libraries"]:
-            print(f"| {e['name']} | [Add to draw.io]({e['oneclick']}) |")
-        print()
-        print(f"[**Install all libraries at once**]({data['install_all']})")
+        print(f"[**Add all libraries to draw.io**]({data['install_all']})")
         return
 
     for e in data["libraries"]:

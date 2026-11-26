@@ -1,5 +1,15 @@
 # Changelog
 
+## [v4.3] - 2026-11-26
+
+### Changed
+
+- Simplified the README install instructions to a single **add-all** option per
+  workflow: one-click link on the web, release zip on draw.io Desktop, and the
+  committed workspace config in VS Code. The per-category install table was
+  removed; per-library links are still available through `tools/links.py`
+  (`--format json` or `plain`)
+
 ## [v4.2] - 2026-11-26
 
 ### Changed
