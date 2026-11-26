@@ -1,5 +1,27 @@
 # Changelog
 
+## [v4.1] - 2026-11-26
+
+### Added
+
+- **All-in-One library** (`all-in-one/HWC All-in-One (color).xml`): every icon
+  and group in a single file — one file to open in draw.io Desktop offline,
+  one entry in the VS Code extension config, one one-click link
+- **Three documented workflows** in the README (English and Portuguese):
+  draw.io on the web (one-click), draw.io Desktop on Windows 11 (online or
+  offline, including `winget install JGraph.Draw`), and VS Code
+- **VS Code workspace config**: `.vscode/settings.json` auto-loads the
+  All-in-One library into the Draw.io Integration extension,
+  `.vscode/mcp.json` adds the official draw.io MCP server (inline AI diagrams
+  in Copilot chat), `.vscode/extensions.json` recommends the extension
+- README guidance for AI agents: drawio skill setup for OpenCode and
+  Claude Code, and editing `.drawio` files as plain XML
+
+### Changed
+
+- CI now validates the All-in-One library too; releases package it alongside
+  the per-category libraries
+
 ## [v4.0] - 2026-11-25
 
 ### Added

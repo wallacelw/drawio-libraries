@@ -1,0 +1,9 @@
+{
+  "hediet.vscode-drawio.customLibraries": [
+    {
+      "entryId": "hwc-all-in-one",
+      "libName": "Huawei Cloud",
+      "file": "${workspaceFolder}/all-in-one/HWC All-in-One (color).xml"
+    }
+  ]
+}

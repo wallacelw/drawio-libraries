@@ -27,6 +27,7 @@ jobs:
         run: |
           mkdir -p dist
           cp color/*.xml dist/
+          cp all-in-one/*.xml dist/
           cd dist && zip ../drawio-libraries-${{ github.ref_name }}.zip *.xml && cd ..
           ls -la dist/ *.zip
 

@@ -25,7 +25,10 @@ jobs:
           import glob, html, json, sys
           import xml.etree.ElementTree as ET
           failures = []
-          for path in sorted(glob.glob("color/*.xml")):
+          for path in sorted(glob.glob("color/*.xml") + glob.glob("all-in-one/*.xml")):
+              # The all-in-one holds both the CCE/VPC groups and the CCE/VPC
+              # service icons, so duplicate titles are expected there.
+              allow_dupes = "all-in-one" in path
               raw = open(path, encoding="utf-8").read().strip()
               if not (raw.startswith("<mxlibrary>") and raw.endswith("</mxlibrary>")):
                   failures.append(f"{path}: missing <mxlibrary> wrapper")
@@ -37,7 +40,7 @@ jobs:
                   continue
               titles = [e.get("title", "") for e in entries]
               dupes = {t for t in titles if titles.count(t) > 1}
-              if dupes:
+              if dupes and not allow_dupes:
                   failures.append(f"{path}: duplicate titles {sorted(dupes)}")
               for e in entries:
                   if "xml" in e:
