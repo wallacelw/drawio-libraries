@@ -25,7 +25,7 @@ Abra o [app.diagrams.net](https://app.diagrams.net) com **todas as 15
 bibliotecas carregadas de uma vez** — cada categoria aparece como seu próprio
 grupo no painel **Formas** à esquerda. Nada para baixar ou descompactar:
 
-[**Adicionar todas as bibliotecas ao draw.io**](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Analytics%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Artificial%20Intelligence%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Business%20Applications%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Compute%20and%20Containers%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Databases%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Developer%20Services%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Flexus%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Groups.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Management%20and%20Governance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Middleware%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Migration%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Misc%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Networking%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Security%20and%20Compliance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.3%2Fcolor%2FHWC%20Storage%20%28color%29.xml)
+[**Adicionar todas as bibliotecas ao draw.io**](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Analytics%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Artificial%20Intelligence%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Business%20Applications%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Compute%20and%20Containers%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Databases%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Developer%20Services%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Flexus%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Groups.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Management%20and%20Governance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Middleware%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Migration%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Misc%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Networking%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Security%20and%20Compliance%20%28color%29.xml;Uhttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwallacelw%2Fdrawio-libraries%40v4.4%2Fcolor%2FHWC%20Storage%20%28color%29.xml)
 
 O link carrega as bibliotecas do [jsDelivr](https://www.jsdelivr.com/)
 fixadas na tag da versão mais recente, então ele sempre serve a versão
@@ -46,35 +46,60 @@ publicada.
 
 ![Adicionando bibliotecas ao draw.io](img/drawio-install-library.gif)
 
-## 🧩 Fluxo 3 — VS Code (editor + agentes de IA)
+## 🧩 Fluxo 3 — VS Code + seu CLI de IA (opencode ou Claude Code)
 
-Abra este repositório como workspace no VS Code e você obtém:
+O editor e o agente são ferramentas separadas que se encontram no arquivo
+`.drawio`: o VS Code renderiza o diagrama, e seu agente de código — opencode
+ou Claude Code, sem GitHub Copilot — cria e edita o arquivo.
 
-1. **O editor**: instale a extensão
+### Configuração única
+
+1. **Editor**: instale a extensão
    [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-   (`hediet.vscode-drawio`) — o VS Code oferece automaticamente via recomendação
-   de extensões do workspace. Arquivos `.drawio` abrem como diagramas editáveis,
-   e o XML do diagrama continua sendo texto simples, com diff e merge como
-   qualquer arquivo.
-2. **As formas**: o `.vscode/settings.json` versionado carrega as 15 bibliotecas
+   (`hediet.vscode-drawio`) — o VS Code oferece automaticamente via
+   recomendação de extensões do workspace. Arquivos `.drawio` abrem como
+   diagramas editáveis, e o XML do diagrama continua sendo texto simples,
+   com diff e merge como qualquer arquivo.
+2. **Formas**: o `.vscode/settings.json` versionado carrega as 15 bibliotecas
    por categoria na barra lateral de formas do editor — cada categoria
-   (Analytics, Databases, Networking, Groups, …) aparece como seu próprio
-   grupo, sem configuração manual.
-3. **Diagramas por IA no chat (GitHub Copilot)**: o `.vscode/mcp.json`
-   versionado adiciona o servidor MCP oficial do draw.io. Peça ao Copilot para
-   desenhar algo ("draw an MRS cluster architecture") e o diagrama aparece
-   inline no chat.
-4. **Agentes de IA com a skill drawio**:
-   - **OpenCode**: coloque a
+   aparece como seu próprio grupo, sem configuração manual.
+3. **Agente** — escolha um:
+   - **opencode**: instale o CLI em [opencode.ai](https://opencode.ai),
+     adicione a extensão oficial do VS Code (`sst-dev.opencode`, abre o
+     opencode em um terminal dividido com `Ctrl+Esc`) — ou simplesmente
+     execute `opencode` no terminal integrado. Depois dê a ele a skill
+     drawio: copie a pasta da
      [skill drawio](https://github.com/jgraph/drawio-mcp/tree/main/plugins/claude-code)
-     em `~/.config/opencode/skills/drawio/` e o servidor de ferramentas
-     `@drawio/mcp` no `mcp_servers` do seu `opencode.json`, depois peça ao
-     agente para criar arquivos `.drawio` — eles abrem na aba do editor ao
-     lado do chat.
-   - **Claude Code**: `/plugin marketplace add jgraph/drawio-mcp` e então
-     `/plugin install drawio@drawio`.
-   - Qualquer agente também pode ler e editar arquivos `.drawio` como XML
-     simples — a visualização do diagrama atualiza conforme o arquivo muda.
+     para `~/.config/opencode/skills/drawio/`. Opcionalmente adicione o
+     servidor de ferramentas `@drawio/mcp` ao seu `opencode.json` para que os
+     diagramas também abram no navegador:
+
+     ```json
+     "mcp_servers": {
+       "drawio": { "type": "local", "command": ["npx", "-y", "@drawio/mcp"] }
+     }
+     ```
+
+   - **Claude Code**: execute `claude` no terminal integrado (ou instale a
+     extensão do VS Code) e adicione o plugin drawio:
+
+     ```
+     /plugin marketplace add jgraph/drawio-mcp
+     /plugin install drawio@drawio
+     ```
+
+### Como funcionam juntos
+
+- Peça um diagrama ao agente — *"crie um .drawio de uma arquitetura Huawei
+  Cloud: um ELB na frente de dois servidores ECS, RDS atrás deles e um
+  cluster MRS"*. Ele escreve o arquivo `.drawio` e o abre; a extensão
+  renderiza em uma aba do editor.
+- Itere no chat: o agente edita o XML do diagrama e o diagrama aberto
+  atualiza conforme o arquivo muda — diffs e reviews funcionam como código.
+- O agente pode usar as formas deste repositório diretamente:
+  `src/icons/<Categoria>/<Serviço>.svg` são SVGs simples que ele pode
+  embutir, e `src/groups/*.xml` são modelos de contêiner prontos (incluindo o
+  cluster MRS) que ele pode copiar para os diagramas.
 
 ## 🌟 Exemplos de arquitetura
 
@@ -119,7 +144,7 @@ tools/extract.py                      # extrai as bibliotecas .xml existentes pa
 tools/build.py                        # reconstrói color/ a partir de src/ (use --check para validar)
 tools/links.py                        # regenera os links de instalação com um clique
 color/                                # bibliotecas draw.io geradas, uma por categoria
-.vscode/                              # configuração da extensão draw.io, servidor MCP e biblioteca
+.vscode/                              # configuração da extensão draw.io e da biblioteca
 ```
 
 Para adicionar ou atualizar um ícone: coloque o SVG em `src/icons/<Categoria>/`,

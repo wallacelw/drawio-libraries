@@ -1,5 +1,20 @@
 # Changelog
 
+## [v4.4] - 2026-11-26
+
+### Changed
+
+- **Workflow 3 rewritten around AI CLI agents** (opencode, Claude Code)
+  instead of GitHub Copilot: documents the opencode VS Code extension
+  (`sst-dev.opencode`) or integrated terminal, the drawio skill install, the
+  optional `@drawio/mcp` tool server, the Claude Code drawio plugin, and how
+  agents can embed shapes directly from `src/icons/` and `src/groups/`
+
+### Removed
+
+- `.vscode/mcp.json` (only consumed by VS Code's native Copilot integration;
+  CLI agents configure the drawio MCP server at user level instead)
+
 ## [v4.3] - 2026-11-26
 
 ### Changed
